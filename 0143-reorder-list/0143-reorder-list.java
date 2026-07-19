@@ -10,43 +10,42 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        if(head == null || head.next == null){
-            return;
-        }
+       if(head==null || head.next==null){
+        return;
+       } 
+      
+       ListNode slow=head;
+       ListNode fast=head;
+       while(fast!=null && fast.next!=null){
+        slow=slow.next;
+        fast=fast.next.next;
 
-        //finding the middle of LL
-        ListNode slow = head;
-        ListNode fast = head;
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
-        }
+       }
+       
+       ListNode second=slow.next;
+       ListNode reversehead=second;
+       
+       slow.next=null;
+       ListNode first=head;
+       ListNode prev=null;
+       while(second!=null){
+       ListNode nex=second.next;
+       second.next=prev;
+       prev=second;
+       second=nex;
+       }
+       reversehead=prev;
+     while (first != null && reversehead != null) {
 
-        //reversing 2nd half
-        ListNode prev = slow;
-        ListNode curr = slow.next;
+    ListNode node1 = first.next;
+    ListNode node2 = reversehead.next;
 
-        while(curr != null){
-            ListNode nextNode = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = nextNode;
-        }
+    first.next = reversehead;
+    reversehead.next = node1;
 
-        slow.next = null; //breaks from middle
-
-        //reordering
-        ListNode first = head;
-        ListNode second = prev;
-
-        while(second.next != null){
-            ListNode temp1 = first.next;
-            ListNode temp2 = second.next;
-            first.next = second;
-            second.next = temp1;
-
-            first = temp1;
-            second = temp2;
-        }
+    first = node1;
+    reversehead = node2;
+}
+       return ;
     }
 }
