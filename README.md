@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/pragya-pp08/DSA/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/pragya-pp08/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/pragya-pp08/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/pragya-pp08/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pragya-pp08/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/pragya-pp08/DSA/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pragya-pp08/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pragya-pp08/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/pragya-pp08/DSA/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/pragya-pp08/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/pragya-pp08/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pragya-pp08/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pragya-pp08/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -46,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/pragya-pp08/DSA/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pragya-pp08/DSA/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pragya-pp08/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pragya-pp08/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
