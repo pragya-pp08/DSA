@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pragya-pp08/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/pragya-pp08/DSA/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/pragya-pp08/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya-pp08/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pragya-pp08/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/pragya-pp08/DSA/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya-pp08/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/pragya-pp08/DSA/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/pragya-pp08/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
