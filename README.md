@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pragya-pp08/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/pragya-pp08/DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/pragya-pp08/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/pragya-pp08/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/pragya-pp08/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pragya-pp08/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pragya-pp08/DSA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/pragya-pp08/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pragya-pp08/DSA/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya-pp08/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/pragya-pp08/DSA/tree/master/2678-number-of-senior-citizens) |
