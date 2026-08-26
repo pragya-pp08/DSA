@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragya-pp08/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/pragya-pp08/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pragya-pp08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/pragya-pp08/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pragya-pp08/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pragya-pp08/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pragya-pp08/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pragya-pp08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/pragya-pp08/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya-pp08/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/pragya-pp08/DSA/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/pragya-pp08/DSA/tree/master/3110-score-of-a-string) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragya-pp08/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/pragya-pp08/DSA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
