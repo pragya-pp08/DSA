@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/pragya-pp08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pragya-pp08/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/pragya-pp08/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/pragya-pp08/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pragya-pp08/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pragya-pp08/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/pragya-pp08/DSA/tree/master/0148-sort-list) |
+| [0881-boats-to-save-people](https://github.com/pragya-pp08/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/pragya-pp08/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/pragya-pp08/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/pragya-pp08/DSA/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/pragya-pp08/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/pragya-pp08/DSA/tree/master/2678-number-of-senior-citizens) |
@@ -154,4 +157,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pragya-pp08/DSA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/pragya-pp08/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/pragya-pp08/DSA/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/pragya-pp08/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
