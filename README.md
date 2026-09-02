@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pragya-pp08/DSA/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/pragya-pp08/DSA/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pragya-pp08/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pragya-pp08/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/pragya-pp08/DSA/tree/master/2678-number-of-senior-citizens) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pragya-pp08/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
