@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/pragya-pp08/DSA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pragya-pp08/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/pragya-pp08/DSA/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/pragya-pp08/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pragya-pp08/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/pragya-pp08/DSA/tree/master/0496-next-greater-element-i) |
+| [2540-minimum-common-value](https://github.com/pragya-pp08/DSA/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/pragya-pp08/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2540-minimum-common-value](https://github.com/pragya-pp08/DSA/tree/master/2540-minimum-common-value) |
 | [2678-number-of-senior-citizens](https://github.com/pragya-pp08/DSA/tree/master/2678-number-of-senior-citizens) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pragya-pp08/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragya-pp08/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2540-minimum-common-value](https://github.com/pragya-pp08/DSA/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
