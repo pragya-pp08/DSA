@@ -3,23 +3,26 @@ class Solution {
         Stack<Integer>st=new Stack<>();
         HashMap<Integer,Integer>map=new HashMap<>();
         for(int i=nums2.length-1;i>=0;i--){
-            while(!st.empty() && st.peek()<=nums2[i]){
-                st.pop();
-            }
-                if(st.isEmpty()){
-                    map.put(nums2[i],-1);
-                }
-                else{
-                    map.put(nums2[i],st.peek());
-                    
-                }
-                st.push(nums2[i]);
-            
+        while(!st.isEmpty() && st.peek()<=nums2[i]){
+            st.pop();
         }
-        int[] ans=new int[nums1.length];
+        if(st.isEmpty()){
+            map.put(nums2[i],-1);
+        }
+        else{
+            map.put(nums2[i],st.peek());
+        }
+        st.push(nums2[i]);
+        }
+        int ans[]=new int[nums1.length];
         for(int i=0;i<nums1.length;i++){
-            ans[i]=map.get(nums1[i]);
+            ans[i]=map.get(nums1[i]);//nums1 wale elements k liye stored ans in map put hora
+
         }
         return ans;
+
+        
+     
+        
     }
 }
