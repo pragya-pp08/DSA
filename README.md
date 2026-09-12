@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/pragya-pp08/DSA/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/pragya-pp08/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya-pp08/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pragya-pp08/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/pragya-pp08/DSA/tree/master/1544-make-the-string-great) |
 ## Divide and Conquer
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragya-pp08/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pragya-pp08/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2540-minimum-common-value](https://github.com/pragya-pp08/DSA/tree/master/2540-minimum-common-value) |
 | [2678-number-of-senior-citizens](https://github.com/pragya-pp08/DSA/tree/master/2678-number-of-senior-citizens) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragya-pp08/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/pragya-pp08/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pragya-pp08/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/pragya-pp08/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pragya-pp08/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
