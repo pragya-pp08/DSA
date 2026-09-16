@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/pragya-pp08/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragya-pp08/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/pragya-pp08/DSA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/pragya-pp08/DSA/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/pragya-pp08/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/pragya-pp08/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pragya-pp08/DSA/tree/master/0503-next-greater-element-ii) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/pragya-pp08/DSA/tree/master/0456-132-pattern) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/pragya-pp08/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
