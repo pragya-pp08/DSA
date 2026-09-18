@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pragya-pp08/DSA/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pragya-pp08/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/pragya-pp08/DSA/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pragya-pp08/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pragya-pp08/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/pragya-pp08/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragya-pp08/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/pragya-pp08/DSA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pragya-pp08/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pragya-pp08/DSA/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/pragya-pp08/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/pragya-pp08/DSA/tree/master/0496-next-greater-element-i) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pragya-pp08/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragya-pp08/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pragya-pp08/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragya-pp08/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pragya-pp08/DSA/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/pragya-pp08/DSA/tree/master/0456-132-pattern) |
