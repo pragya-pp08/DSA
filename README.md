@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/pragya-pp08/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/pragya-pp08/DSA/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/pragya-pp08/DSA/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragya-pp08/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pragya-pp08/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pragya-pp08/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/pragya-pp08/DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Stack
 |  |
