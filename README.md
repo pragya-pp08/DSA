@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragya-pp08/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pragya-pp08/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/pragya-pp08/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2540-minimum-common-value](https://github.com/pragya-pp08/DSA/tree/master/2540-minimum-common-value) |
 | [2678-number-of-senior-citizens](https://github.com/pragya-pp08/DSA/tree/master/2678-number-of-senior-citizens) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragya-pp08/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pragya-pp08/DSA/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/pragya-pp08/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
