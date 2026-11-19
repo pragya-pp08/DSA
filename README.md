@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pragya-pp08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/pragya-pp08/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragya-pp08/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragya-pp08/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragya-pp08/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/pragya-pp08/DSA/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/pragya-pp08/DSA/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragya-pp08/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragya-pp08/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pragya-pp08/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pragya-pp08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pragya-pp08/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/pragya-pp08/DSA/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragya-pp08/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragya-pp08/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Stack
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragya-pp08/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0456-132-pattern](https://github.com/pragya-pp08/DSA/tree/master/0456-132-pattern) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragya-pp08/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2540-minimum-common-value](https://github.com/pragya-pp08/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragya-pp08/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -294,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pragya-pp08/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragya-pp08/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
