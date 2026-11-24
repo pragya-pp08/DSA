@@ -8,30 +8,29 @@ class Solution {
             char c = s.charAt(i);
             map.put(c, map.getOrDefault(c,0)+1);
         }
-
-        // Step 2: Create Max Heap
-        PriorityQueue<Character> pq =
-            new PriorityQueue<>((a,b) -> map.get(b)-map.get(a));
-
-        // Step 3: Insert unique characters
-        Character[] keys = map.keySet().toArray(new Character[0]);
-
-        for(int j=0; j<keys.length; j++) {
-            pq.add(keys[j]);
-        }
-
-        // Step 4: Build answer
-        StringBuilder ans = new StringBuilder();
-
-        while(!pq.isEmpty()) {
-            char c = pq.poll();
-            int freq = map.get(c);
-
-            for(int i=0; i<freq; i++) {
-                ans.append(c);
+        PriorityQueue<int[]>pq=new PriorityQueue<>((a,b)->b[1]-a[1]);
+        ArrayList<Character> keys = new ArrayList<>(map.keySet());
+            for(int i=0;i<keys.size();i++){
+                char c=keys.get(i);
+                int freq=map.get(c);
+                int[] curr={c,freq};
+                pq.add(curr);
             }
-        }
+        
+            StringBuilder sb=new StringBuilder();
+            while(!pq.isEmpty()){
+                int[] removed=pq.poll();
+                char c= (char)removed[0];
+                int freq=removed[1];
+                for(int i=0;i<freq;i++){
+                    sb.append(c);
+                }
+            
 
-        return ans.toString();
+            }
+            return sb.toString();
+
+        
+
     }
 }
