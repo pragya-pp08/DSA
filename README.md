@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pragya-pp08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pragya-pp08/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/pragya-pp08/DSA/tree/master/0496-next-greater-element-i) |
+| [0767-reorganize-string](https://github.com/pragya-pp08/DSA/tree/master/0767-reorganize-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragya-pp08/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/pragya-pp08/DSA/tree/master/2540-minimum-common-value) |
 ## Math
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pragya-pp08/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/pragya-pp08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pragya-pp08/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/pragya-pp08/DSA/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/pragya-pp08/DSA/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/pragya-pp08/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/pragya-pp08/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pragya-pp08/DSA/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/pragya-pp08/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/pragya-pp08/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/pragya-pp08/DSA/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/pragya-pp08/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pragya-pp08/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/pragya-pp08/DSA/tree/master/1544-make-the-string-great) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pragya-pp08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pragya-pp08/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pragya-pp08/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/pragya-pp08/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/pragya-pp08/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/pragya-pp08/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pragya-pp08/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pragya-pp08/DSA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/pragya-pp08/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/pragya-pp08/DSA/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/pragya-pp08/DSA/tree/master/0881-boats-to-save-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/pragya-pp08/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Timsort
@@ -265,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pragya-pp08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pragya-pp08/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/pragya-pp08/DSA/tree/master/0767-reorganize-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragya-pp08/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bracket Sequences
 |  |
